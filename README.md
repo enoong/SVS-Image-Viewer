@@ -5,13 +5,11 @@
 1. 기술 스택 선택
 
 프론트엔드: React.js, Vue.js, 또는 Svelte (UI 개발 용이성)
-
 백엔드: Node.js, Python(Django/Flask), 또는 FastAPI (이미지 처리 및 API 제공)
-
 이미지 처리 및 관리:
-OpenSlide (SVS 파일 처리)
-OpenSeadragon (이미지 줌 기능 지원)
-IIIF (International Image Interoperability Framework) 프로토콜로 이미지 최적화
+  OpenSlide (SVS 파일 처리)
+  OpenSeadragon (이미지 줌 기능 지원)
+  IIIF (International Image Interoperability Framework) 프로토콜로 이미지 최적화
 클라우드 서비스: AWS S3, Google Cloud Storage (이미지 저장 및 빠른 로딩)
 
 2. 이미지 전처리 및 저장
