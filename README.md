@@ -3,8 +3,11 @@
 웹 기반의 SVS 이미지 뷰어를 만들기 위해 다음과 같은 단계를 따라야 합니다. 이 뷰어는 사용자가 이미지를 확대, 축소하고 빠르게 로딩할 수 있도록 최적화해야 합니다. 여기에서는 필요한 주요 기술과 구현 방법을 설명합니다.
 
 1. 기술 스택 선택
+
 프론트엔드: React.js, Vue.js, 또는 Svelte (UI 개발 용이성)
+
 백엔드: Node.js, Python(Django/Flask), 또는 FastAPI (이미지 처리 및 API 제공)
+
 이미지 처리 및 관리:
 OpenSlide (SVS 파일 처리)
 OpenSeadragon (이미지 줌 기능 지원)
